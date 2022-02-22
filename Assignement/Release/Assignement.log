@@ -1,0 +1,18 @@
+﻿  flappy-bird-win.cpp
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(43,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(88,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(89,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(99,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(131,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(132,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(189,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(212,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(258,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(263,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(263,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\Downloads\flappy-bird-win.cpp(265,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignement.vcxproj -> C:\Users\seanp\source\repos\Assignement\Release\Assignement.exe

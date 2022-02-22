@@ -1,0 +1,26 @@
+﻿  Pipe.cpp
+  FlappyBird.cpp
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(33,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(34,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(40,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(89,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(90,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(100,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(107,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(148,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(149,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(211,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(234,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(247,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(254,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(304,72): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(304,52): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(304,32): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(320,72): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(320,52): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(320,32): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(358,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(366,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\source\repos\Assignement\Assignement\FlappyBird.cpp(373,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Assignement.vcxproj -> C:\Users\seanp\source\repos\Assignement\Debug\Assignement.exe
